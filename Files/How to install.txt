@@ -1,0 +1,9 @@
+Thanks for downloading Blender Grpahite, below are some simple instructions for installing these theme into your own copy of blender; it's super simple, trust me!
+
+1. Download the theme from the releases section if you haven't already.
+2. In Blender in the “Preferences” window switch to the “Themes” section.
+3. Press the “Install” button and specify the downloaded theme file, locate Blender_Graphite_1.xml
+4. Press the “Save Preferences” button to apply your brain new UI theme.
+5. Enjoy!
+
+If you have any issues with the theme feel free to reach out to me on discord: Spud#0285

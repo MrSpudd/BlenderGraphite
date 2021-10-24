@@ -1,4 +1,4 @@
-Thanks for downloading Blender Grpahite, below are some simple instructions for installing these theme into your own copy of blender; it's super simple, trust me!
+Thanks for downloading Blender Graphite, below are some simple instructions for installing these theme into your own copy of blender; it's super simple, trust me!
 
 1. Download the theme from the releases section if you haven't already.
 2. In Blender in the “Preferences” window switch to the “Themes” section.
